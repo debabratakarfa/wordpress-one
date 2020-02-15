@@ -1,0 +1,4 @@
+[submodule "code-deploy"]
+	path = code-deploy
+	url = git@github.com:debabratakarfa/code-deploy.git
+	branch = master
